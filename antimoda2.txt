@@ -1,0 +1,13 @@
+<title>Заголовок Skillbox</title>
+<h1>Методические пособия для студентов лучшего факультета лучшего университета лучшей страны</h1>
+
+<table>
+<caption>Материалы:</caption>
+<tr><td>младшие курсы</td><td>НЕ-ядро</td><td>ядро</td></tr> 
+<tr><td>4-й семестр</td><td><a href="http://skillbox.ru/">оптика</a></td><td><a href="http://skillbox.ru/">теормех-4</a></td><td><a href="http://skillbox.ru/">интуры</a></td></tr> 
+<tr><td>5-й семестр</td><td><a href="http://skillbox.ru/">электрод-5</a></td><td><a href="http://skillbox.ru/">теормех-5</a></td><td><a href="http://skillbox.ru/">ММФ</a></td><td><a href="http://skillbox.ru/">радио</a></td><td><a href="http://skillbox.ru/">атомка</a></td></tr> 
+<tr><td>6-й семестр</td><td><a href="http://skillbox.ru/">электрод-6</a></td><td><a href="http://skillbox.ru/">квантовая теория-6</a></td><td><a href="http://skillbox.ru/">ОММ</a></td></tr>
+<tr><td>7-й семестр</td><td><a href="http://skillbox.ru/">статфиз-7</a></td><td><a href="http://skillbox.ru/">квантовая теория-7</a></td></tr>
+</table>
+
+
